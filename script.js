@@ -184,11 +184,8 @@ var Clock = (function () {
       press = false,
       quiver = true,
       texts = [
-         'as pretty as a picture',
          'prepossessing',
-         'drop-dead gorgeous',
          'spectacular',
-         'drop-dead gorgeous',
          'radiant',
          'graceful',
          'exquisite',
